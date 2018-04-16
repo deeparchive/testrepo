@@ -1,7 +1,2 @@
 # testrepo
-change
-change2
-change3
-change4
-change5
-change6
+change made after staging this file

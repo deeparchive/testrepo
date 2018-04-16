@@ -1,1 +1,14 @@
+# ignore all .a files
+*.a
 
+# do track lib.a
+!lib.a
+
+# ignore only in current dir
+/TODO
+
+# ignore all files in build directory
+build/
+
+# ignore all pdf files in doc directory or any sub directory
+doc/**/*.pdf
